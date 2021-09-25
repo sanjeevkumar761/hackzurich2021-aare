@@ -6,7 +6,7 @@ With explosion of digital artwork scene and NFTs, it is difficult to recognize t
 - [Training Azure Custom Vision Model with Images of Artwork by Raphael Hefti and pplpleaser](#training-azure-custom-vision-model-with-images-of-artwork-by-raphael-hefti-and-pplpleaser)
 - [AI-Model Performance Evaluation](#ai-model-performance-evaluation)
 - [Model Prediction / Recognizing Artist for the Artwork](#model-prediction-and-recognizing-artist-for-the-artwork)
-- [Testing Aare AI-model REST API using Postman](#testing-aare-azure-custom-vision-rest-api-using-postman)
+- [Testing Aare AI-model REST API using Postman](#testing-aare-ai-model-rest-api-using-postman)
 
 
 ### Training Azure Custom Vision Model with Images of Artwork by Raphael Hefti and pplpleaser 
